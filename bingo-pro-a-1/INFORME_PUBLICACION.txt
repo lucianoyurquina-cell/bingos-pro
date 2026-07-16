@@ -1,0 +1,15 @@
+BINGOS PRO V130 GOLD
+
+Organizador: BINGO PRUEBA A
+Bingo: BINGO PRO A
+Fecha del bingo: 26/07/2026
+
+Venta Online: https://lucianoyurquina-cell.github.io/bingos-pro/bingo-pro-a-1/VENTA_ONLINE/
+Consulta: https://lucianoyurquina-cell.github.io/bingos-pro/bingo-pro-a-1/CONSULTA/
+
+QR Venta: QR_BINGO_PRO_A_VENTA.png
+QR Consulta: QR_BINGO_PRO_A_CONSULTA.png
+
+Generado: 14/07/2026 22:57
+
+IMPORTANTE: estos QR abren la publicación pública de GitHub. Después de subir PUBLICACION WEB a GitHub, espere 1 o 2 minutos antes de probarlos.
