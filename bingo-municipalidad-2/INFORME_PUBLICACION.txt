@@ -1,0 +1,15 @@
+BINGOS PRO V130 GOLD
+
+Organizador: MUNICIPALIDAD
+Bingo: BINGO MUNICIPALIDAD
+Fecha del bingo: 23/07/26
+
+Venta Online: https://lucianoyurquina-cell.github.io/bingos-pro/bingo-municipalidad-2/VENTA_ONLINE/
+Consulta: https://lucianoyurquina-cell.github.io/bingos-pro/bingo-municipalidad-2/CONSULTA/
+
+QR Venta: QR_BINGO_MUNICIPALIDAD_VENTA.png
+QR Consulta: QR_BINGO_MUNICIPALIDAD_CONSULTA.png
+
+Generado: 17/07/2026 17:43
+
+IMPORTANTE: estos QR abren la publicación pública de GitHub. Después de subir PUBLICACION WEB a GitHub, espere 1 o 2 minutos antes de probarlos.
