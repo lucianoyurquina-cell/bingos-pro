@@ -1,0 +1,15 @@
+BINGOS PRO V130 GOLD
+
+Organizador: AMIGOS DEL MILAGRO
+Bingo: BINGO AMIGOS DEL MILAGRO
+Fecha del bingo: 29/07/26
+
+Venta Online: https://lucianoyurquina-cell.github.io/bingos-pro/bingo-amigos-del-milagro-1/VENTA_ONLINE/
+Consulta: https://lucianoyurquina-cell.github.io/bingos-pro/bingo-amigos-del-milagro-1/CONSULTA/
+
+QR Venta: QR_BINGO_AMIGOS_DEL_MILAGRO_VENTA.png
+QR Consulta: QR_BINGO_AMIGOS_DEL_MILAGRO_CONSULTA.png
+
+Generado: 17/07/2026 13:41
+
+IMPORTANTE: estos QR abren la publicación pública de GitHub. Después de subir PUBLICACION WEB a GitHub, espere 1 o 2 minutos antes de probarlos.
