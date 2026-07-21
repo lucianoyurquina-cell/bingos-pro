@@ -1,0 +1,15 @@
+BINGOS PRO V130 GOLD
+
+Organizador: amigos del Bingo
+Bingo: BINGO DE LOS AMIGOS
+Fecha del bingo: 27/7/26
+
+Venta Online: https://lucianoyurquina-cell.github.io/bingos-pro/bingo-de-los-amigos-1/VENTA_ONLINE/
+Consulta: https://lucianoyurquina-cell.github.io/bingos-pro/bingo-de-los-amigos-1/CONSULTA/
+
+QR Venta: QR_BINGO_DE_LOS_AMIGOS_VENTA.png
+QR Consulta: QR_BINGO_DE_LOS_AMIGOS_CONSULTA.png
+
+Generado: 20/07/2026 22:04
+
+IMPORTANTE: estos QR abren la publicación pública de GitHub. Después de subir PUBLICACION WEB a GitHub, espere 1 o 2 minutos antes de probarlos.
