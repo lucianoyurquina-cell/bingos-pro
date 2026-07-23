@@ -1,0 +1,15 @@
+BINGOS PRO V130 GOLD
+
+Organizador: prueba final de bingo
+Bingo: PRUEBA FINAL DE BINGO ONLINE
+Fecha del bingo: 26/07/26
+
+Venta Online: https://lucianoyurquina-cell.github.io/bingos-pro/prueba-final-de-bingo-online-1/VENTA_ONLINE/
+Consulta: https://lucianoyurquina-cell.github.io/bingos-pro/prueba-final-de-bingo-online-1/CONSULTA/
+
+QR Venta: QR_PRUEBA_FINAL_DE_BINGO_ONLINE_VENTA.png
+QR Consulta: QR_PRUEBA_FINAL_DE_BINGO_ONLINE_CONSULTA.png
+
+Generado: 22/07/2026 21:15
+
+IMPORTANTE: estos QR abren la publicación pública de GitHub. Después de subir PUBLICACION WEB a GitHub, espere 1 o 2 minutos antes de probarlos.
