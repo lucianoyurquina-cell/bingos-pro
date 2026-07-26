@@ -1,0 +1,15 @@
+BINGOS PRO V130 GOLD
+
+Organizador: prueba
+Bingo: PRUEBA DE IMPRESIONES
+Fecha del bingo: 26/07/26
+
+Venta Online: https://lucianoyurquina-cell.github.io/bingos-pro/prueba-de-impresiones-1/VENTA_ONLINE/
+Consulta: https://lucianoyurquina-cell.github.io/bingos-pro/prueba-de-impresiones-1/CONSULTA/
+
+QR Venta: QR_PRUEBA_DE_IMPRESIONES_VENTA.png
+QR Consulta: QR_PRUEBA_DE_IMPRESIONES_CONSULTA.png
+
+Generado: 25/07/2026 21:35
+
+IMPORTANTE: estos QR abren la publicación pública de GitHub. Después de subir PUBLICACION WEB a GitHub, espere 1 o 2 minutos antes de probarlos.
