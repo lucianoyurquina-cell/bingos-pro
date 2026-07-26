@@ -10,6 +10,6 @@ Consulta: https://lucianoyurquina-cell.github.io/bingos-pro/prueba-de-impresione
 QR Venta: QR_PRUEBA_DE_IMPRESIONES_VENTA.png
 QR Consulta: QR_PRUEBA_DE_IMPRESIONES_CONSULTA.png
 
-Generado: 25/07/2026 21:35
+Generado: 25/07/2026 21:36
 
 IMPORTANTE: estos QR abren la publicación pública de GitHub. Después de subir PUBLICACION WEB a GitHub, espere 1 o 2 minutos antes de probarlos.
