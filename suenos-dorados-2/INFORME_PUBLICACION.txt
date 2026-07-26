@@ -1,0 +1,15 @@
+BINGOS PRO V130 GOLD
+
+Organizador: COMISION CLUB RIO DORADO
+Bingo: SUEÑOS DORADOS
+Fecha del bingo: 31/08/2026
+
+Venta Online: https://lucianoyurquina-cell.github.io/bingos-pro/suenos-dorados-2/VENTA_ONLINE/
+Consulta: https://lucianoyurquina-cell.github.io/bingos-pro/suenos-dorados-2/CONSULTA/
+
+QR Venta: QR_SUEÑOS_DORADOS_VENTA.png
+QR Consulta: QR_SUEÑOS_DORADOS_CONSULTA.png
+
+Generado: 25/07/2026 21:39
+
+IMPORTANTE: estos QR abren la publicación pública de GitHub. Después de subir PUBLICACION WEB a GitHub, espere 1 o 2 minutos antes de probarlos.
