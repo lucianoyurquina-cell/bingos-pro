@@ -1,0 +1,15 @@
+BINGOS PRO V130 GOLD
+
+Organizador: LIGA ANTEÑA
+Bingo: AMIGOS DEL FUTBOL ANTA
+Fecha del bingo: 30/10/26
+
+Venta Online: https://lucianoyurquina-cell.github.io/bingos-pro/amigos-del-futbol-anta-5/VENTA_ONLINE/
+Consulta: https://lucianoyurquina-cell.github.io/bingos-pro/amigos-del-futbol-anta-5/CONSULTA/
+
+QR Venta: QR_AMIGOS_DEL_FUTBOL_ANTA_VENTA.png
+QR Consulta: QR_AMIGOS_DEL_FUTBOL_ANTA_CONSULTA.png
+
+Generado: 28/09/2026 09:42
+
+IMPORTANTE: estos QR abren la publicación pública de GitHub. Después de subir PUBLICACION WEB a GitHub, espere 1 o 2 minutos antes de probarlos.
