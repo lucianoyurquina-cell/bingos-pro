@@ -10,6 +10,6 @@ Consulta: https://lucianoyurquina-cell.github.io/bingos-pro/amigos-del-futbol-4/
 QR Venta: QR_AMIGOS_DEL_FUTBOL_VENTA.png
 QR Consulta: QR_AMIGOS_DEL_FUTBOL_CONSULTA.png
 
-Generado: 08/10/2026 18:38
+Generado: 08/10/2026 21:42
 
 IMPORTANTE: estos QR abren la publicación pública de GitHub. Después de subir PUBLICACION WEB a GitHub, espere 1 o 2 minutos antes de probarlos.
