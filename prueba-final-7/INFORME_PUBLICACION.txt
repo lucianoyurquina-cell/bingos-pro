@@ -10,6 +10,6 @@ Consulta: https://lucianoyurquina-cell.github.io/bingos-pro/prueba-final-7/CONSU
 QR Venta: QR_PRUEBA_FINAL_VENTA.png
 QR Consulta: QR_PRUEBA_FINAL_CONSULTA.png
 
-Generado: 13/10/2026 16:47
+Generado: 13/10/2026 17:14
 
 IMPORTANTE: estos QR abren la publicación pública de GitHub. Después de subir PUBLICACION WEB a GitHub, espere 1 o 2 minutos antes de probarlos.
