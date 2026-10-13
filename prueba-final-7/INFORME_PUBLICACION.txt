@@ -1,0 +1,15 @@
+BINGOS PRO V130 GOLD
+
+Organizador: AMOGOS DEL BINGO
+Bingo: PRUEBA FINAL
+Fecha del bingo: 13/11/26
+
+Venta Online: https://lucianoyurquina-cell.github.io/bingos-pro/prueba-final-7/VENTA_ONLINE/
+Consulta: https://lucianoyurquina-cell.github.io/bingos-pro/prueba-final-7/CONSULTA/
+
+QR Venta: QR_PRUEBA_FINAL_VENTA.png
+QR Consulta: QR_PRUEBA_FINAL_CONSULTA.png
+
+Generado: 13/10/2026 16:47
+
+IMPORTANTE: estos QR abren la publicación pública de GitHub. Después de subir PUBLICACION WEB a GitHub, espere 1 o 2 minutos antes de probarlos.
