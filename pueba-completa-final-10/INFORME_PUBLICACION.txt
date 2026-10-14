@@ -10,6 +10,6 @@ Consulta: https://lucianoyurquina-cell.github.io/bingos-pro/pueba-completa-final
 QR Venta: QR_PUEBA_COMPLETA_FINAL_VENTA.png
 QR Consulta: QR_PUEBA_COMPLETA_FINAL_CONSULTA.png
 
-Generado: 14/10/2026 12:06
+Generado: 14/10/2026 12:58
 
 IMPORTANTE: estos QR abren la publicación pública de GitHub. Después de subir PUBLICACION WEB a GitHub, espere 1 o 2 minutos antes de probarlos.
