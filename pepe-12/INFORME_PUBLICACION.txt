@@ -1,0 +1,15 @@
+BINGOS PRO V130 GOLD
+
+Organizador: cyn
+Bingo: pepe
+Fecha del bingo: 10/11/26
+
+Venta Online: https://lucianoyurquina-cell.github.io/bingos-pro/pepe-12/VENTA_ONLINE/
+Consulta: https://lucianoyurquina-cell.github.io/bingos-pro/pepe-12/CONSULTA/
+
+QR Venta: QR_PEPE_VENTA.png
+QR Consulta: QR_PEPE_CONSULTA.png
+
+Generado: 21/10/2026 19:55
+
+IMPORTANTE: estos QR abren la publicación pública de GitHub. Después de subir PUBLICACION WEB a GitHub, espere 1 o 2 minutos antes de probarlos.
