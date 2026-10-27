@@ -10,6 +10,6 @@ Consulta: https://lucianoyurquina-cell.github.io/bingos-pro/carton-online-prueba
 QR Venta: QR_CARTON_ONLINE_PRUEBA_2_VENTA.png
 QR Consulta: QR_CARTON_ONLINE_PRUEBA_2_CONSULTA.png
 
-Generado: 26/10/2026 21:55
+Generado: 26/10/2026 21:56
 
 IMPORTANTE: estos QR abren la publicación pública de GitHub. Después de subir PUBLICACION WEB a GitHub, espere 1 o 2 minutos antes de probarlos.
