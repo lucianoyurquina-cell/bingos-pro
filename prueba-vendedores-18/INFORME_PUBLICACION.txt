@@ -1,0 +1,15 @@
+BINGOS PRO V130 GOLD
+
+Organizador: LUCMARC
+Bingo: PRUEBA VENDEDORES
+Fecha del bingo: 29/12/26
+
+Venta Online: https://lucianoyurquina-cell.github.io/bingos-pro/prueba-vendedores-18/VENTA_ONLINE/
+Consulta: https://lucianoyurquina-cell.github.io/bingos-pro/prueba-vendedores-18/CONSULTA/
+
+QR Venta: QR_PRUEBA_VENDEDORES_VENTA.png
+QR Consulta: QR_PRUEBA_VENDEDORES_CONSULTA.png
+
+Generado: 27/10/2026 20:59
+
+IMPORTANTE: estos QR abren la publicación pública de GitHub. Después de subir PUBLICACION WEB a GitHub, espere 1 o 2 minutos antes de probarlos.
